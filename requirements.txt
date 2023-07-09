@@ -6,5 +6,6 @@ datetime
 scikit-learn
 catboost
 xgboost
+dill
 
 #-e .
